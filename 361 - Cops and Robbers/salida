@@ -1,0 +1,183 @@
+Data set 1:
+     Citizen at (2,-2) is safe.
+     Citizen at (6,-6) is neither.
+     Citizen at (0,0) is safe.
+     Citizen at (1,0) is neither.
+
+Data set 2:
+     Citizen at (2,2) is safe.
+     Citizen at (6,6) is neither.
+     Citizen at (0,0) is safe.
+     Citizen at (1,0) is neither.
+
+Data set 3:
+     Citizen at (2,4) is neither.
+     Citizen at (6,3) is safe.
+     Citizen at (9,2) is safe.
+     Citizen at (11,2) is neither.
+     Citizen at (11,1) is neither.
+     Citizen at (10,1) is neither.
+     Citizen at (1,4) is neither.
+     Citizen at (1,5) is neither.
+
+Data set 4:
+     Citizen at (1,7) is neither.
+     Citizen at (1,0) is neither.
+     Citizen at (1,3) is safe.
+     Citizen at (1,4) is safe.
+     Citizen at (1,6) is safe.
+     Citizen at (0,1) is neither.
+     Citizen at (0,7) is neither.
+     Citizen at (0,0) is neither.
+     Citizen at (0,3) is neither.
+     Citizen at (0,4) is neither.
+     Citizen at (0,6) is neither.
+     Citizen at (2,7) is neither.
+     Citizen at (2,0) is neither.
+     Citizen at (2,3) is neither.
+     Citizen at (2,4) is neither.
+     Citizen at (2,6) is neither.
+     Citizen at (2,1) is neither.
+     Citizen at (2,1) is neither.
+
+Data set 5:
+     Citizen at (0,0) is neither.
+
+Data set 6:
+     Citizen at (0,0) is safe.
+
+Data set 7:
+     Citizen at (1,0) is safe.
+
+Data set 8:
+     Citizen at (0,-1) is safe.
+
+Data set 9:
+     Citizen at (0,0) is neither.
+
+Data set 10:
+     Citizen at (0,0) is robbed.
+
+Data set 11:
+     Citizen at (0,0) is robbed.
+
+Data set 12:
+     Citizen at (20,0) is neither.
+
+Data set 13:
+     Citizen at (0,0) is safe.
+
+Data set 14:
+     Citizen at (1,1) is safe.
+     Citizen at (3,1) is safe.
+     Citizen at (2,1) is safe.
+     Citizen at (0,1) is neither.
+     Citizen at (1,2) is neither.
+     Citizen at (1,0) is neither.
+
+Data set 15:
+     Citizen at (0,0) is neither.
+     Citizen at (0,1) is robbed.
+     Citizen at (0,2) is neither.
+     Citizen at (1,0) is neither.
+     Citizen at (1,1) is robbed.
+     Citizen at (1,2) is neither.
+     Citizen at (2,0) is neither.
+     Citizen at (2,1) is robbed.
+     Citizen at (2,2) is neither.
+     Citizen at (3,0) is neither.
+     Citizen at (3,1) is robbed.
+     Citizen at (3,2) is neither.
+     Citizen at (4,0) is neither.
+     Citizen at (4,1) is robbed.
+     Citizen at (4,2) is neither.
+     Citizen at (5,0) is neither.
+     Citizen at (5,1) is neither.
+     Citizen at (5,2) is neither.
+
+Data set 16:
+     Citizen at (0,0) is neither.
+     Citizen at (0,1) is safe.
+     Citizen at (0,2) is neither.
+     Citizen at (1,0) is neither.
+     Citizen at (1,1) is safe.
+     Citizen at (1,2) is neither.
+     Citizen at (2,0) is neither.
+     Citizen at (2,1) is safe.
+     Citizen at (2,2) is neither.
+     Citizen at (3,0) is neither.
+     Citizen at (3,1) is safe.
+     Citizen at (3,2) is neither.
+     Citizen at (4,0) is neither.
+     Citizen at (4,1) is safe.
+     Citizen at (4,2) is neither.
+     Citizen at (5,0) is neither.
+     Citizen at (5,1) is neither.
+     Citizen at (5,2) is neither.
+
+Data set 17:
+     Citizen at (0,10) is neither.
+     Citizen at (1,4) is neither.
+     Citizen at (4,4) is safe.
+     Citizen at (4,3) is robbed.
+     Citizen at (4,9) is robbed.
+     Citizen at (5,3) is robbed.
+     Citizen at (5,6) is robbed.
+     Citizen at (6,4) is safe.
+     Citizen at (6,5) is robbed.
+     Citizen at (8,3) is neither.
+     Citizen at (8,4) is safe.
+
+Data set 18:
+     Citizen at (0,10) is neither.
+     Citizen at (1,4) is neither.
+     Citizen at (4,4) is safe.
+     Citizen at (4,3) is safe.
+     Citizen at (4,9) is safe.
+     Citizen at (5,3) is safe.
+     Citizen at (5,6) is safe.
+     Citizen at (6,4) is safe.
+     Citizen at (6,5) is safe.
+     Citizen at (8,3) is neither.
+     Citizen at (8,4) is robbed.
+
+Data set 19:
+     Citizen at (2,0) is safe.
+     Citizen at (16,0) is neither.
+     Citizen at (-4,0) is robbed.
+     Citizen at (-9,0) is neither.
+
+Data set 20:
+     Citizen at (2,0) is safe.
+     Citizen at (10,0) is neither.
+
+Data set 21:
+     Citizen at (5,5) is safe.
+     Citizen at (4,6) is safe.
+     Citizen at (2,7) is safe.
+     Citizen at (3,8) is safe.
+     Citizen at (0,8) is neither.
+     Citizen at (3,4) is robbed.
+     Citizen at (3,5) is safe.
+     Citizen at (6,6) is robbed.
+     Citizen at (8,9) is neither.
+     Citizen at (9,2) is neither.
+     Citizen at (2,2) is neither.
+     Citizen at (0,0) is neither.
+     Citizen at (1,1) is neither.
+     Citizen at (0,0) is neither.
+     Citizen at (1,1) is neither.
+     Citizen at (2,3) is neither.
+
+Data set 22:
+     Citizen at (5,5) is safe.
+     Citizen at (15,15) is robbed.
+
+Data set 23:
+     Citizen at (40,40) is neither.
+
+Data set 24:
+     Citizen at (4,5) is safe.
+     Citizen at (0,5) is neither.
+     Citizen at (3,2) is safe.
+
