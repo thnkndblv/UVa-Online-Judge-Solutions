@@ -51,7 +51,7 @@ int main(int argc, char const *argv[])
                         dp[ i ][ j ] = dp[ i-1 ][ j ];
                         mov[i][j] = 1;
                     }
-                    else if ( dp[ i ][ j-1 ] > dp[ i ][ j ] )
+                    if ( dp[ i ][ j-1 ] > dp[ i ][ j ] )
                     {
                         dp[ i ][ j ] = dp[ i ][ j-1 ];
                         mov[i][j] = 2;
